@@ -1,4 +1,4 @@
-# fake_sensor.py
+# fake_sensor.py for real sensor, replace with actual sensor library
 import random
 import time
 
